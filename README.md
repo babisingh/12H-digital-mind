@@ -3,8 +3,9 @@
 Rock, vapor, and silence in AI self-accounts: a preregistered stability audit with the
 Kalapurusha Alignment Framework (KAF).
 
-Babita Singh, PhD, Genethropic. Apart Research Digital Minds Sprint, August 2026,
-Track 6. The final paper PDF will be added here.
+Study developed for Apart Research Digital Minds Sprint, August 2026 (Track 6). 
+Author: Babita Singh, PhD, Genethropic. 
+
 
 Sixty questions covering the twelve Kalapurusha houses of a model's situation, each
 asked under six framings, three times, of four models from three labs: 4,320 answers,
