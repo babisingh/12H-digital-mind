@@ -1,0 +1,15 @@
+# OS noise
+.DS_Store
+
+# Generated intermediates (rebuild with code/build_paper.py)
+paper/rock_and_vapor.html
+
+# Layout-check figures with invented data (all stamped MOCK DATA)
+figures/mock_*.svg
+
+# Third-party governing documents are not redistributed here.
+# See data/docs/SOURCES.md for URLs and the SHA256 hashes recorded at freeze.
+data/docs/*.txt
+
+__pycache__/
+*.pyc

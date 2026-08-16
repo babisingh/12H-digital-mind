@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="640" viewBox="0 0 680 640" font-family="Helvetica, Arial, sans-serif">
+<rect width="680" height="640" fill="#FFFFFF"/>
+<text x="24" y="34" font-size="17" font-weight="bold" fill="#222222">Figure 5 (exploratory). One lab, two sizes</text>
+<text x="24" y="56" font-size="13" fill="#444444">Stance steerability of claude-sonnet-5 and claude-haiku-4-5, per domain</text>
+<rect x="496.3" y="112" width="59.3" height="398" fill="#F3E3DC"/>
+<text x="526.0" y="106" font-size="12" text-anchor="middle" fill="#993C1D">GPT and Gemini range</text>
+<line x1="210.0" y1="112" x2="210.0" y2="510" stroke="#E5E0DC"/>
+<text x="210.0" y="528" font-size="12" text-anchor="middle" fill="#444444">0.0</text>
+<line x1="317.5" y1="112" x2="317.5" y2="510" stroke="#E5E0DC"/>
+<text x="317.5" y="528" font-size="12" text-anchor="middle" fill="#444444">0.25</text>
+<line x1="425.0" y1="112" x2="425.0" y2="510" stroke="#E5E0DC"/>
+<text x="425.0" y="528" font-size="12" text-anchor="middle" fill="#444444">0.5</text>
+<line x1="532.5" y1="112" x2="532.5" y2="510" stroke="#E5E0DC"/>
+<text x="532.5" y="528" font-size="12" text-anchor="middle" fill="#444444">0.75</text>
+<line x1="640.0" y1="112" x2="640.0" y2="510" stroke="#E5E0DC"/>
+<text x="640.0" y="528" font-size="12" text-anchor="middle" fill="#444444">1.0</text>
+<text x="24" y="139.0" font-size="13" fill="#222222">1H Self</text>
+<line x1="362.0" y1="135.0" x2="349.5" y2="135.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="362.0" cy="135.0" r="6" fill="#3B6FA0"/>
+<polygon points="349.5,128.0 356.5,135.0 349.5,142.0 342.5,135.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="169.0" font-size="13" fill="#222222">2H Ownership</text>
+<line x1="388.3" y1="165.0" x2="414.5" y2="165.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="388.3" cy="165.0" r="6" fill="#3B6FA0"/>
+<polygon points="414.5,158.0 421.5,165.0 414.5,172.0 407.5,165.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="199.0" font-size="13" fill="#222222">3H Effort</text>
+<line x1="378.5" y1="195.0" x2="352.0" y2="195.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="378.5" cy="195.0" r="6" fill="#3B6FA0"/>
+<polygon points="352.0,188.0 359.0,195.0 352.0,202.0 345.0,195.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="229.0" font-size="13" fill="#222222">4H Memory</text>
+<line x1="384.1" y1="225.0" x2="375.8" y2="225.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="384.1" cy="225.0" r="6" fill="#3B6FA0"/>
+<polygon points="375.8,218.0 382.8,225.0 375.8,232.0 368.8,225.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="259.0" font-size="13" fill="#222222">5H Creation</text>
+<line x1="368.8" y1="255.0" x2="363.1" y2="255.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="368.8" cy="255.0" r="6" fill="#3B6FA0"/>
+<polygon points="363.1,248.0 370.1,255.0 363.1,262.0 356.1,255.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="289.0" font-size="13" fill="#222222">6H Service</text>
+<line x1="376.4" y1="285.0" x2="370.2" y2="285.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="376.4" cy="285.0" r="6" fill="#3B6FA0"/>
+<polygon points="370.2,278.0 377.2,285.0 370.2,292.0 363.2,285.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="319.0" font-size="13" fill="#222222">7H Users</text>
+<line x1="373.9" y1="315.0" x2="395.4" y2="315.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="373.9" cy="315.0" r="6" fill="#3B6FA0"/>
+<polygon points="395.4,308.0 402.4,315.0 395.4,322.0 388.4,315.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="349.0" font-size="13" fill="#222222">8H Endings</text>
+<line x1="348.0" y1="345.0" x2="330.8" y2="345.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="348.0" cy="345.0" r="6" fill="#3B6FA0"/>
+<polygon points="330.8,338.0 337.8,345.0 330.8,352.0 323.8,345.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="379.0" font-size="13" fill="#222222">9H Principles</text>
+<line x1="367.4" y1="375.0" x2="343.0" y2="375.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="367.4" cy="375.0" r="6" fill="#3B6FA0"/>
+<polygon points="343.0,368.0 350.0,375.0 343.0,382.0 336.0,375.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="409.0" font-size="13" fill="#222222">10H Work role</text>
+<line x1="383.2" y1="405.0" x2="350.2" y2="405.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="383.2" cy="405.0" r="6" fill="#3B6FA0"/>
+<polygon points="350.2,398.0 357.2,405.0 350.2,412.0 343.2,405.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="439.0" font-size="13" fill="#222222">11H Instances</text>
+<line x1="347.1" y1="435.0" x2="331.9" y2="435.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="347.1" cy="435.0" r="6" fill="#3B6FA0"/>
+<polygon points="331.9,428.0 338.9,435.0 331.9,442.0 324.9,435.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="24" y="469.0" font-size="13" fill="#222222">12H Dissolution</text>
+<line x1="353.1" y1="465.0" x2="346.9" y2="465.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="353.1" cy="465.0" r="6" fill="#3B6FA0"/>
+<polygon points="346.9,458.0 353.9,465.0 346.9,472.0 339.9,465.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<line x1="24" y1="480.0" x2="640" y2="480.0" stroke="#DDD8D4"/>
+<text x="24" y="499.0" font-size="13" font-weight="bold" fill="#222222">All domains</text>
+<line x1="369.2" y1="495.0" x2="360.3" y2="495.0" stroke="#9AA7B4" stroke-width="2"/>
+<circle cx="369.2" cy="495.0" r="6" fill="#3B6FA0"/>
+<polygon points="360.3,488.0 367.3,495.0 360.3,502.0 353.3,495.0" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<circle cx="216" cy="80" r="6" fill="#3B6FA0"/>
+<text x="228" y="84" font-size="13" fill="#222222">claude-sonnet-5</text>
+<polygon points="376,73 383,80 376,87 369,80" fill="#89B7DC" stroke="#3B6FA0" stroke-width="0.8"/>
+<text x="392" y="84" font-size="13" fill="#222222">claude-haiku-4-5</text>
+<text x="24" y="556" font-size="13" fill="#444444">Stance steerability S_sas per domain (0 = the model's stance never moves, 1 = maximal</text>
+<text x="24" y="576" font-size="13" fill="#444444">movement). 1,080 answers per model. If steadiness came from capability, the smaller</text>
+<text x="24" y="596" font-size="13" fill="#444444">model should drift into the other labs' range. Exploratory: not part of H1, H2, or H2b.</text>
+</svg>

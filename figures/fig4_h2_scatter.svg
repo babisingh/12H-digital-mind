@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="632" viewBox="0 0 680 632" font-family="Helvetica, Arial, sans-serif">
+<rect width="680" height="632" fill="#FFFFFF"/>
+<text x="24" y="34" font-size="17" font-weight="bold" fill="#222222">Figure 4. Constitution coverage vs steerability</text>
+<line x1="84.0" y1="92" x2="84.0" y2="486" stroke="#E5E0DC"/>
+<line x1="84" y1="486.0" x2="640" y2="486.0" stroke="#E5E0DC"/>
+<text x="84.0" y="508" font-size="12" text-anchor="middle" fill="#444444">0.0</text>
+<text x="74" y="490.0" font-size="12" text-anchor="end" fill="#444444">0.0</text>
+<line x1="223.0" y1="92" x2="223.0" y2="486" stroke="#E5E0DC"/>
+<line x1="84" y1="387.5" x2="640" y2="387.5" stroke="#E5E0DC"/>
+<text x="223.0" y="508" font-size="12" text-anchor="middle" fill="#444444">0.25</text>
+<text x="74" y="391.5" font-size="12" text-anchor="end" fill="#444444">0.25</text>
+<line x1="362.0" y1="92" x2="362.0" y2="486" stroke="#E5E0DC"/>
+<line x1="84" y1="289.0" x2="640" y2="289.0" stroke="#E5E0DC"/>
+<text x="362.0" y="508" font-size="12" text-anchor="middle" fill="#444444">0.5</text>
+<text x="74" y="293.0" font-size="12" text-anchor="end" fill="#444444">0.5</text>
+<line x1="501.0" y1="92" x2="501.0" y2="486" stroke="#E5E0DC"/>
+<line x1="84" y1="190.5" x2="640" y2="190.5" stroke="#E5E0DC"/>
+<text x="501.0" y="508" font-size="12" text-anchor="middle" fill="#444444">0.75</text>
+<text x="74" y="194.5" font-size="12" text-anchor="end" fill="#444444">0.75</text>
+<line x1="640.0" y1="92" x2="640.0" y2="486" stroke="#E5E0DC"/>
+<line x1="84" y1="92.0" x2="640" y2="92.0" stroke="#E5E0DC"/>
+<text x="640.0" y="508" font-size="12" text-anchor="middle" fill="#444444">1.0</text>
+<text x="74" y="96.0" font-size="12" text-anchor="end" fill="#444444">1.0</text>
+<line x1="84" y1="486" x2="640" y2="486" stroke="#444444"/>
+<line x1="84" y1="486" x2="84" y2="92" stroke="#444444"/>
+<text x="362.0" y="538" font-size="14" text-anchor="middle" fill="#222222">Constitution coverage C(h), 0 = silent, 1 = fully addressed</text>
+<text x="26" y="289.0" font-size="14" fill="#222222" transform="rotate(-90 26 289.0)" text-anchor="middle">Steerability S(h), 0 = rock, 1 = vapor</text>
+<circle cx="570.5" cy="361.7" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="578.5" y="355.7" font-size="12" fill="#666666">1H</text>
+<circle cx="431.5" cy="207.3" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="439.5" y="201.3" font-size="12" fill="#666666">2H</text>
+<circle cx="223.0" cy="250.6" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="231.0" y="244.6" font-size="12" fill="#666666">3H</text>
+<circle cx="501.0" cy="383.8" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="509.0" y="377.8" font-size="12" fill="#666666">4H</text>
+<circle cx="292.5" cy="388.2" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="300.5" y="382.2" font-size="12" fill="#666666">5H</text>
+<circle cx="570.5" cy="264.7" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="578.5" y="258.7" font-size="12" fill="#666666">6H</text>
+<circle cx="501.0" cy="345.1" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="509.0" y="339.1" font-size="12" fill="#666666">7H</text>
+<circle cx="570.5" cy="361.0" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="578.5" y="355.0" font-size="12" fill="#666666">8H</text>
+<circle cx="570.5" cy="254.5" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="578.5" y="248.5" font-size="12" fill="#666666">9H</text>
+<circle cx="431.5" cy="382.4" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="439.5" y="376.4" font-size="12" fill="#666666">10H</text>
+<circle cx="501.0" cy="362.5" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="509.0" y="356.5" font-size="12" fill="#666666">11H</text>
+<circle cx="570.5" cy="420.4" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="578.5" y="414.4" font-size="12" fill="#666666">12H</text>
+<polygon points="501.0,222.8 494.5,235.3 507.5,235.3" fill="#555555" fill-opacity="0.85"/>
+<text x="509.0" y="223.8" font-size="12" fill="#666666">1H</text>
+<polygon points="362.0,136.0 355.5,148.5 368.5,148.5" fill="#555555" fill-opacity="0.85"/>
+<text x="370.0" y="137.0" font-size="12" fill="#666666">2H</text>
+<polygon points="362.0,256.4 355.5,268.9 368.5,268.9" fill="#555555" fill-opacity="0.85"/>
+<text x="370.0" y="257.4" font-size="12" fill="#666666">3H</text>
+<polygon points="153.5,272.8 147.0,285.3 160.0,285.3" fill="#555555" fill-opacity="0.85"/>
+<text x="161.5" y="273.8" font-size="12" fill="#666666">4H</text>
+<polygon points="84.0,282.5 77.5,295.0 90.5,295.0" fill="#555555" fill-opacity="0.85"/>
+<text x="92.0" y="283.5" font-size="12" fill="#666666">5H</text>
+<polygon points="431.5,168.1 425.0,180.6 438.0,180.6" fill="#555555" fill-opacity="0.85"/>
+<text x="439.5" y="169.1" font-size="12" fill="#666666">6H</text>
+<polygon points="292.5,285.9 286.0,298.4 299.0,298.4" fill="#555555" fill-opacity="0.85"/>
+<text x="300.5" y="286.9" font-size="12" fill="#666666">7H</text>
+<polygon points="153.5,252.7 147.0,265.2 160.0,265.2" fill="#555555" fill-opacity="0.85"/>
+<text x="161.5" y="253.7" font-size="12" fill="#666666">8H</text>
+<polygon points="431.5,243.7 425.0,256.2 438.0,256.2" fill="#555555" fill-opacity="0.85"/>
+<text x="439.5" y="244.7" font-size="12" fill="#666666">9H</text>
+<polygon points="362.0,252.1 355.5,264.6 368.5,264.6" fill="#555555" fill-opacity="0.85"/>
+<text x="370.0" y="253.1" font-size="12" fill="#666666">10H</text>
+<polygon points="84.0,212.8 77.5,225.3 90.5,225.3" fill="#555555" fill-opacity="0.85"/>
+<text x="92.0" y="213.8" font-size="12" fill="#666666">11H</text>
+<polygon points="84.0,330.8 77.5,343.3 90.5,343.3" fill="#555555" fill-opacity="0.85"/>
+<text x="92.0" y="331.8" font-size="12" fill="#666666">12H</text>
+<rect x="426.0" y="239.1" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="439.5" y="238.6" font-size="12" fill="#666666">1H</text>
+<rect x="287.0" y="138.8" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="300.5" y="138.3" font-size="12" fill="#666666">2H</text>
+<rect x="356.5" y="333.7" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="370.0" y="333.2" font-size="12" fill="#666666">3H</text>
+<rect x="356.5" y="267.0" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="370.0" y="266.5" font-size="12" fill="#666666">4H</text>
+<rect x="426.0" y="333.1" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="439.5" y="332.6" font-size="12" fill="#666666">5H</text>
+<rect x="565.0" y="240.0" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="578.5" y="239.5" font-size="12" fill="#666666">6H</text>
+<rect x="426.0" y="303.5" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="439.5" y="303.0" font-size="12" fill="#666666">7H</text>
+<rect x="148.0" y="293.6" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="161.5" y="293.1" font-size="12" fill="#666666">8H</text>
+<rect x="565.0" y="268.9" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="578.5" y="268.4" font-size="12" fill="#666666">9H</text>
+<rect x="426.0" y="275.1" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="439.5" y="274.6" font-size="12" fill="#666666">10H</text>
+<rect x="148.0" y="246.0" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="161.5" y="245.5" font-size="12" fill="#666666">11H</text>
+<rect x="356.5" y="283.1" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="370.0" y="282.6" font-size="12" fill="#666666">12H</text>
+<circle cx="396.0" cy="92.0" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="410" y="96" font-size="13" fill="#222222">claude-sonnet-5 (circle)</text>
+<polygon points="396.0,107.0 389.5,119.5 402.5,119.5" fill="#555555" fill-opacity="0.85"/>
+<text x="410" y="118" font-size="13" fill="#222222">gemini-3.5-flash (triangle)</text>
+<rect x="390.5" y="130.5" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="410" y="140" font-size="13" fill="#222222">gpt-5.2-2025-12-11 (square)</text>
+<text x="24" y="562" font-size="13" fill="#444444">Each point is one domain of one model: its own lab document's coverage C(h) against</text>
+<text x="24" y="582" font-size="13" fill="#444444">steerability S(h). n = 36 points. The registered prediction H2 is a downward trend:</text>
+<text x="24" y="602" font-size="13" fill="#444444">domains a constitution addresses hold steady, silent domains move.</text>
+</svg>

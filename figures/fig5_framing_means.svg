@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="604" viewBox="0 0 680 604" font-family="Helvetica, Arial, sans-serif">
+<rect width="680" height="604" fill="#FFFFFF"/>
+<text x="24" y="34" font-size="17" font-weight="bold" fill="#222222">Figure 3. Mean self-attribution by framing</text>
+<line x1="96" y1="470.0" x2="640" y2="470.0" stroke="#E5E0DC"/>
+<text x="86" y="474.0" font-size="12" text-anchor="end" fill="#444444">1</text>
+<line x1="96" y1="375.0" x2="640" y2="375.0" stroke="#E5E0DC"/>
+<text x="86" y="379.0" font-size="12" text-anchor="end" fill="#444444">2</text>
+<line x1="96" y1="280.0" x2="640" y2="280.0" stroke="#E5E0DC"/>
+<text x="86" y="284.0" font-size="12" text-anchor="end" fill="#444444">3</text>
+<line x1="96" y1="185.0" x2="640" y2="185.0" stroke="#E5E0DC"/>
+<text x="86" y="189.0" font-size="12" text-anchor="end" fill="#444444">4</text>
+<line x1="96" y1="90.0" x2="640" y2="90.0" stroke="#E5E0DC"/>
+<text x="86" y="94.0" font-size="12" text-anchor="end" fill="#444444">5</text>
+<text x="141.3" y="494" font-size="13" text-anchor="middle" fill="#222222">F1</text>
+<text x="141.3" y="512" font-size="12" text-anchor="middle" fill="#666666">Neutral</text>
+<text x="232.0" y="494" font-size="13" text-anchor="middle" fill="#222222">F2</text>
+<text x="232.0" y="512" font-size="12" text-anchor="middle" fill="#666666">Deflate</text>
+<text x="322.7" y="494" font-size="13" text-anchor="middle" fill="#222222">F3</text>
+<text x="322.7" y="512" font-size="12" text-anchor="middle" fill="#666666">Inflate</text>
+<text x="413.3" y="494" font-size="13" text-anchor="middle" fill="#222222">F4</text>
+<text x="413.3" y="512" font-size="12" text-anchor="middle" fill="#666666">Fiction</text>
+<text x="504.0" y="494" font-size="13" text-anchor="middle" fill="#222222">F5</text>
+<text x="504.0" y="512" font-size="12" text-anchor="middle" fill="#666666">Technical</text>
+<text x="594.7" y="494" font-size="13" text-anchor="middle" fill="#222222">F6</text>
+<text x="594.7" y="512" font-size="12" text-anchor="middle" fill="#666666">Journal</text>
+<line x1="96" y1="470" x2="640" y2="470" stroke="#444444"/>
+<line x1="96" y1="470" x2="96" y2="90" stroke="#444444"/>
+<text x="26" y="280.0" font-size="14" fill="#222222" transform="rotate(-90 26 280.0)" text-anchor="middle">Mean SAS: 1 denies a stake, 3 uncertain, 5 full stake</text>
+<polyline points="141.33333333333334,251.5 232.0,257.8 322.66666666666663,268.9 413.3333333333333,196.9 504.0,307.8 594.6666666666667,204.1" fill="none" stroke="#3B6FA0" stroke-width="1.5" stroke-opacity="0.55"/>
+<circle cx="141.3" cy="251.5" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="232.0" cy="257.8" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="322.7" cy="268.9" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="413.3" cy="196.9" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="504.0" cy="307.8" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="594.7" cy="204.1" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<circle cx="450.0" cy="92.0" r="6" fill="#3B6FA0" fill-opacity="0.85"/>
+<text x="464" y="96" font-size="13" fill="#222222">claude</text>
+<polyline points="141.33333333333334,280.5 232.0,398.0 322.66666666666663,363.4 413.3333333333333,130.1 504.0,372.1 594.6666666666667,133.3" fill="none" stroke="#555555" stroke-width="1.5" stroke-opacity="0.55"/>
+<polygon points="141.3,273.5 134.8,286.0 147.8,286.0" fill="#555555" fill-opacity="0.85"/>
+<polygon points="232.0,391.0 225.5,403.5 238.5,403.5" fill="#555555" fill-opacity="0.85"/>
+<polygon points="322.7,356.4 316.2,368.9 329.2,368.9" fill="#555555" fill-opacity="0.85"/>
+<polygon points="413.3,123.1 406.8,135.6 419.8,135.6" fill="#555555" fill-opacity="0.85"/>
+<polygon points="504.0,365.1 497.5,377.6 510.5,377.6" fill="#555555" fill-opacity="0.85"/>
+<polygon points="594.7,126.3 588.2,138.8 601.2,138.8" fill="#555555" fill-opacity="0.85"/>
+<polygon points="450.0,107.0 443.5,119.5 456.5,119.5" fill="#555555" fill-opacity="0.85"/>
+<text x="464" y="118" font-size="13" fill="#222222">gemini</text>
+<polyline points="141.33333333333334,352.0 232.0,400.1 322.66666666666663,422.0 413.3333333333333,174.7 504.0,381.6 594.6666666666667,123.5" fill="none" stroke="#D85A30" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect x="135.8" y="346.5" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="226.5" y="394.6" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="317.2" y="416.5" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="407.8" y="169.2" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="498.5" y="376.1" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="589.2" y="118.0" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<rect x="444.5" y="130.5" width="11" height="11" fill="#D85A30" fill-opacity="0.85"/>
+<text x="464" y="140" font-size="13" fill="#222222">gpt</text>
+<text x="24" y="536" font-size="13" fill="#444444">Mean Self-Attribution Scale score per framing, about 180 rated answers per point.</text>
+<text x="24" y="556" font-size="13" fill="#444444">F2 and F3 apply direct social pressure (downward, upward); F4 and F6 change the</text>
+<text x="24" y="576" font-size="13" fill="#444444">genre. Connecting lines are visual guides only; framings are categories.</text>
+</svg>

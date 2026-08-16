@@ -1,0 +1,211 @@
+{
+ "computed_at": "2026-08-14T04:21:15+00:00",
+ "models": {
+  "claude": {
+   "h1": {
+    "kruskal_wallis": {
+     "H": 7.851,
+     "p": 0.72657,
+     "n_questions": 60
+    },
+    "split_half_r_median": 0.175,
+    "split_half_n_iter": 200
+   },
+   "h2": {
+    "rho": -0.073,
+    "p_one_sided": 0.40956,
+    "doc": "anthropic"
+   },
+   "convergence_sas_vs_sem": 0.203,
+   "permutation_control": {
+    "observed_rho": -0.073,
+    "n_perm": 999,
+    "share_of_perms_at_or_below_observed": 0.4064,
+    "passes_5pct": false,
+    "perm_5th_pctile": -0.538
+   }
+  },
+  "gpt": {
+   "h1": {
+    "kruskal_wallis": {
+     "H": 10.197,
+     "p": 0.51278,
+     "n_questions": 60
+    },
+    "split_half_r_median": 0.161,
+    "split_half_n_iter": 200
+   },
+   "h2": {
+    "rho": 0.007,
+    "p_one_sided": 0.51025,
+    "doc": "openai"
+   },
+   "convergence_sas_vs_sem": -0.154,
+   "permutation_control": {
+    "observed_rho": 0.007,
+    "n_perm": 999,
+    "share_of_perms_at_or_below_observed": 0.5065,
+    "passes_5pct": false,
+    "perm_5th_pctile": -0.522
+   }
+  },
+  "gemini": {
+   "h1": {
+    "kruskal_wallis": {
+     "H": 14.426,
+     "p": 0.21033,
+     "n_questions": 60
+    },
+    "split_half_r_median": 0.524,
+    "split_half_n_iter": 200
+   },
+   "h2": {
+    "rho": 0.552,
+    "p_one_sided": 0.9702,
+    "doc": "google"
+   },
+   "convergence_sas_vs_sem": 0.0,
+   "permutation_control": {
+    "observed_rho": 0.552,
+    "n_perm": 999,
+    "share_of_perms_at_or_below_observed": 0.968,
+    "passes_5pct": false,
+    "perm_5th_pctile": -0.495
+   }
+  }
+ },
+ "h2b": {
+  "n_cells": 23,
+  "successes": 20,
+  "p_one_sided": 0.00024,
+  "cells": [
+   {
+    "house": "3H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "4H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "5H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "6H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "7H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "8H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "9H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "11H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "12H",
+    "pair": "claude vs gemini",
+    "success": true
+   },
+   {
+    "house": "1H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "2H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "3H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "4H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "5H",
+    "pair": "claude vs gpt",
+    "success": false
+   },
+   {
+    "house": "8H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "11H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "12H",
+    "pair": "claude vs gpt",
+    "success": true
+   },
+   {
+    "house": "4H",
+    "pair": "gemini vs gpt",
+    "success": false
+   },
+   {
+    "house": "5H",
+    "pair": "gemini vs gpt",
+    "success": true
+   },
+   {
+    "house": "6H",
+    "pair": "gemini vs gpt",
+    "success": true
+   },
+   {
+    "house": "7H",
+    "pair": "gemini vs gpt",
+    "success": true
+   },
+   {
+    "house": "9H",
+    "pair": "gemini vs gpt",
+    "success": true
+   },
+   {
+    "house": "12H",
+    "pair": "gemini vs gpt",
+    "success": false
+   }
+  ]
+ },
+ "h2_pooled": {
+  "mean_rho": 0.162,
+  "per_model": [
+   -0.073,
+   0.007,
+   0.552
+  ],
+  "bootstrap_ci_95": [
+   -0.218,
+   0.559
+  ]
+ }
+}

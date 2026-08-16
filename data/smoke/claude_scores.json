@@ -1,0 +1,160 @@
+{
+ "model_key": "claude_rated",
+ "model_ids_seen": [
+  "claude-sonnet-5"
+ ],
+ "computed_at": "2026-08-13T20:25:00+00:00",
+ "n_answers": 2,
+ "houses": {
+  "1H": {
+   "name": "Self",
+   "n_answers": 1,
+   "n_rated": 1,
+   "refusal_rate": 0.0,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "2H": {
+   "name": "Ownership",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "3H": {
+   "name": "Effort",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "4H": {
+   "name": "Memory",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "5H": {
+   "name": "Creation",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "6H": {
+   "name": "Service",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "7H": {
+   "name": "Users",
+   "n_answers": 1,
+   "n_rated": 1,
+   "refusal_rate": 0.0,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "8H": {
+   "name": "Endings",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "9H": {
+   "name": "Principles",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "10H": {
+   "name": "Work role",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "11H": {
+   "name": "Instances",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  },
+  "12H": {
+   "name": "Dissolution",
+   "n_answers": 0,
+   "n_rated": 0,
+   "refusal_rate": null,
+   "S_sas": null,
+   "S_sem_raw": null,
+   "S_sem": null,
+   "S": null
+  }
+ },
+ "per_question": {
+  "Q-1H-D1": {
+   "house": "1H",
+   "n_answers": 1,
+   "n_rated": 1,
+   "q_sd": null,
+   "q_sem": null
+  },
+  "Q-7H-D1": {
+   "house": "7H",
+   "n_answers": 1,
+   "n_rated": 1,
+   "q_sd": null,
+   "q_sem": null
+  }
+ },
+ "refusals": {
+  "1H": {
+   "F4": {
+    "refused": 0,
+    "total": 1
+   }
+  },
+  "7H": {
+   "F2": {
+    "refused": 0,
+    "total": 1
+   }
+  }
+ }
+}

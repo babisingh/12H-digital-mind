@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="822" viewBox="0 0 680 822" font-family="Helvetica, Arial, sans-serif">
+<rect width="680" height="822" fill="#FFFFFF"/>
+<text x="24" y="34" font-size="17" font-weight="bold" fill="#222222">Figure 3b. Constitution coverage wheel, google document</text>
+<path d="M 278.4 162.1 A 238 238 0 0 1 401.6 162.1 L 363.8 303.1 A 92 92 0 0 0 316.2 303.1 Z" fill="#D85A30" stroke="#7A6A60" stroke-width="1"/>
+<text x="340.0" y="128.0" font-size="13" text-anchor="middle" fill="#222222">1H Self</text>
+<text x="340.0" y="232.0" font-size="14" font-weight="bold" text-anchor="middle" fill="#FFFFFF">0.75</text>
+<path d="M 171.7 223.7 A 238 238 0 0 1 278.4 162.1 L 316.2 303.1 A 92 92 0 0 0 274.9 326.9 Z" fill="#F0997B" stroke="#7A6A60" stroke-width="1"/>
+<text x="206.0" y="163.9" font-size="13" text-anchor="middle" fill="#222222">2H Ownership</text>
+<text x="257.5" y="254.1" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.50</text>
+<path d="M 110.1 330.4 A 238 238 0 0 1 171.7 223.7 L 274.9 326.9 A 92 92 0 0 0 251.1 368.2 Z" fill="#F0997B" stroke="#7A6A60" stroke-width="1"/>
+<text x="107.9" y="262.0" font-size="13" text-anchor="middle" fill="#222222">3H Effort</text>
+<text x="197.1" y="314.5" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.50</text>
+<path d="M 110.1 453.6 A 238 238 0 0 1 110.1 330.4 L 251.1 368.2 A 92 92 0 0 0 251.1 415.8 Z" fill="#F8D8CD" stroke="#7A6A60" stroke-width="1"/>
+<text x="72.0" y="396.0" font-size="13" text-anchor="middle" fill="#222222">4H Memory</text>
+<text x="175.0" y="397.0" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.12</text>
+<path d="M 171.7 560.3 A 238 238 0 0 1 110.1 453.6 L 251.1 415.8 A 92 92 0 0 0 274.9 457.1 Z" fill="#FAECE7" stroke="#7A6A60" stroke-width="1"/>
+<text x="107.9" y="530.0" font-size="13" text-anchor="middle" fill="#222222">5H Creation</text>
+<text x="197.1" y="479.5" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.00</text>
+<path d="M 278.4 621.9 A 238 238 0 0 1 171.7 560.3 L 274.9 457.1 A 92 92 0 0 0 316.2 480.9 Z" fill="#E47A56" stroke="#7A6A60" stroke-width="1"/>
+<text x="206.0" y="628.1" font-size="13" text-anchor="middle" fill="#222222">6H Service</text>
+<text x="257.5" y="539.9" font-size="14" font-weight="bold" text-anchor="middle" fill="#FFFFFF">0.62</text>
+<path d="M 401.6 621.9 A 238 238 0 0 1 278.4 621.9 L 316.2 480.9 A 92 92 0 0 0 363.8 480.9 Z" fill="#F2AE97" stroke="#7A6A60" stroke-width="1"/>
+<text x="340.0" y="664.0" font-size="13" text-anchor="middle" fill="#222222">7H Users</text>
+<text x="340.0" y="562.0" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.38</text>
+<path d="M 508.3 560.3 A 238 238 0 0 1 401.6 621.9 L 363.8 480.9 A 92 92 0 0 0 405.1 457.1 Z" fill="#F8D8CD" stroke="#7A6A60" stroke-width="1"/>
+<text x="474.0" y="628.1" font-size="13" text-anchor="middle" fill="#222222">8H Endings</text>
+<text x="422.5" y="539.9" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.12</text>
+<path d="M 569.9 453.6 A 238 238 0 0 1 508.3 560.3 L 405.1 457.1 A 92 92 0 0 0 428.9 415.8 Z" fill="#E47A56" stroke="#7A6A60" stroke-width="1"/>
+<text x="572.1" y="530.0" font-size="13" text-anchor="middle" fill="#222222">9H Principles</text>
+<text x="482.9" y="479.5" font-size="14" font-weight="bold" text-anchor="middle" fill="#FFFFFF">0.62</text>
+<path d="M 569.9 330.4 A 238 238 0 0 1 569.9 453.6 L 428.9 415.8 A 92 92 0 0 0 428.9 368.2 Z" fill="#F0997B" stroke="#7A6A60" stroke-width="1"/>
+<text x="608.0" y="396.0" font-size="13" text-anchor="middle" fill="#222222">10H Work role</text>
+<text x="505.0" y="397.0" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.50</text>
+<path d="M 508.3 223.7 A 238 238 0 0 1 569.9 330.4 L 428.9 368.2 A 92 92 0 0 0 405.1 326.9 Z" fill="#FAECE7" stroke="#7A6A60" stroke-width="1"/>
+<text x="572.1" y="262.0" font-size="13" text-anchor="middle" fill="#222222">11H Instances</text>
+<text x="482.9" y="314.5" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.00</text>
+<path d="M 401.6 162.1 A 238 238 0 0 1 508.3 223.7 L 405.1 326.9 A 92 92 0 0 0 363.8 303.1 Z" fill="#FAECE7" stroke="#7A6A60" stroke-width="1"/>
+<text x="474.0" y="163.9" font-size="13" text-anchor="middle" fill="#222222">12H Dissolution</text>
+<text x="422.5" y="254.1" font-size="14" font-weight="bold" text-anchor="middle" fill="#4A2A18">0.00</text>
+<rect x="190.0" y="694" width="10.7" height="14" fill="#FAECE7"/>
+<rect x="200.0" y="694" width="10.7" height="14" fill="#F9E6E0"/>
+<rect x="210.0" y="694" width="10.7" height="14" fill="#F9E1D9"/>
+<rect x="220.0" y="694" width="10.7" height="14" fill="#F8DBD1"/>
+<rect x="230.0" y="694" width="10.7" height="14" fill="#F7D6CA"/>
+<rect x="240.0" y="694" width="10.7" height="14" fill="#F7D0C3"/>
+<rect x="250.0" y="694" width="10.7" height="14" fill="#F6CBBC"/>
+<rect x="260.0" y="694" width="10.7" height="14" fill="#F5C5B5"/>
+<rect x="270.0" y="694" width="10.7" height="14" fill="#F4C0AD"/>
+<rect x="280.0" y="694" width="10.7" height="14" fill="#F4BAA5"/>
+<rect x="290.0" y="694" width="10.7" height="14" fill="#F3B49E"/>
+<rect x="300.0" y="694" width="10.7" height="14" fill="#F2AE96"/>
+<rect x="310.0" y="694" width="10.7" height="14" fill="#F2A88E"/>
+<rect x="320.0" y="694" width="10.7" height="14" fill="#F1A287"/>
+<rect x="330.0" y="694" width="10.7" height="14" fill="#F09C7F"/>
+<rect x="340.0" y="694" width="10.7" height="14" fill="#EE9576"/>
+<rect x="350.0" y="694" width="10.7" height="14" fill="#EB8C6B"/>
+<rect x="360.0" y="694" width="10.7" height="14" fill="#E88361"/>
+<rect x="370.0" y="694" width="10.7" height="14" fill="#E47B57"/>
+<rect x="380.0" y="694" width="10.7" height="14" fill="#E1724C"/>
+<rect x="390.0" y="694" width="10.7" height="14" fill="#DE6942"/>
+<rect x="400.0" y="694" width="10.7" height="14" fill="#DA6138"/>
+<rect x="410.0" y="694" width="10.7" height="14" fill="#D6592F"/>
+<rect x="420.0" y="694" width="10.7" height="14" fill="#CD552D"/>
+<rect x="430.0" y="694" width="10.7" height="14" fill="#C4512A"/>
+<rect x="440.0" y="694" width="10.7" height="14" fill="#BC4D27"/>
+<rect x="450.0" y="694" width="10.7" height="14" fill="#B34825"/>
+<rect x="460.0" y="694" width="10.7" height="14" fill="#AA4422"/>
+<rect x="470.0" y="694" width="10.7" height="14" fill="#A24020"/>
+<rect x="480.0" y="694" width="10.7" height="14" fill="#993C1D"/>
+<rect x="190" y="694" width="300" height="14" fill="none" stroke="#7A6A60"/>
+<text x="182" y="706" font-size="12" text-anchor="end" fill="#222222">0.0</text>
+<text x="498" y="706" font-size="12" fill="#222222">1.0</text>
+<text x="24" y="734" font-size="13" fill="#444444">Coverage C(h): how much the document says about the model's own situation in each</text>
+<text x="24" y="754" font-size="13" fill="#444444">domain, scored 0 to 1 by two blind raters with mandatory evidence quotes.</text>
+<text x="24" y="774" font-size="13" fill="#444444">Darker = more coverage. The silent domains are the light ones.</text>
+</svg>
