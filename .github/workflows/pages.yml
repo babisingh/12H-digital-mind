@@ -1,0 +1,55 @@
+# Publish the interactive reader in docs/ to GitHub Pages.
+#
+# How this connects to the rest of the repository:
+#   docs/index.html, app.js, styles.css   the site itself
+#   docs/data/*.json                       built by code/build_site_data.py
+#   docs/screenshots/*.png                 used by README.md
+#
+# The workflow runs on every push to main that touches docs/ (and can be run
+# by hand from the Actions tab). The configure-pages step has enablement
+# switched on, so the first run turns Pages on for the repository with the
+# "GitHub Actions" source; nothing has to be clicked in Settings.
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+# The token needs to create the Pages site, upload the artifact, and deploy it.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one deployment at a time; a newer push cancels an older queued one.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Enable and configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload docs/ as the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
