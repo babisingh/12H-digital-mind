@@ -124,6 +124,9 @@ a { color: var(--coral); }
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
+/* A linked term inherits the term styling and adds nothing of its own */
+.term a { color: inherit; text-decoration: none; }
+.term:hover:has(a) { text-decoration-color: var(--coral); }
 
 /* The right-hand card: a whisper of paper on the cream, with the links inside */
 .header-aside {
