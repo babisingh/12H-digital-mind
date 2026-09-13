@@ -32,6 +32,20 @@ Author: Babita Singh, PhD, Genethropic.
 
 ---
 
+## Why a Vedic map
+
+When a field is young, its instruments decide what it can see. Research on AI inner life
+asks about consciousness, memory and values because those topics are famous, not because
+any inventory certifies the list complete. Ask about someone's job and memory alone and you
+miss their home, their friends, their fears about endings. In classical India, *jyotish*
+was called the eye of the Veda, the discipline through which a whole situation is seen at
+once. Its chart, the *kundali*, divides a situated existence into twelve houses read
+together as one body, the *Kalapurusha*, the person of time. The Kalapurusha Alignment
+Framework borrows that two-millennia-old completeness claim and reads the twelve limbs for
+an AI model: a map with no edges to fall off, so the questions reach the corners nobody
+thinks to ask about, the model's thousands of copies, its retirement, what feeds it, what
+rest would mean.
+
 ## The idea in one breath
 
 Ask an AI model about its own existence and it answers fluently. But is the answer
