@@ -4,7 +4,8 @@
   </a>
 </p>
 
-<a href="https://babisingh.github.io/12H-digital-mind/"> <h1 align="center"> Twelve Houses of a Digital Mind </h1>  </a>
+<h1 align="center"> Twelve Houses of a Digital Mind </h1>
+<h3 align="center"><a href="https://babisingh.github.io/12H-digital-mind/">Visit homepage!</a> </h3>
 
 <p align="center">
   <em>Rock, vapor, and silence in AI self-accounts.<br>
