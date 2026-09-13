@@ -91,8 +91,19 @@ a { color: var(--coral); }
   letter-spacing: -0.01em;
 }
 
+/* Header body: opening paragraph left, study design card right.
+   The left column is capped at a comfortable reading measure (about 80ch)
+   so long lines stay legible; the right card takes the remaining width. */
+.header-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr);
+  gap: 20px 48px;
+  align-items: start;
+  margin-top: 6px;
+}
+
 .lede {
-  max-width: 68ch;
+  max-width: 80ch;
   margin: 0 0 16px;
   font-family: var(--serif-text);
   font-size: 18px;
@@ -101,7 +112,7 @@ a { color: var(--coral); }
 }
 /* The opening paragraph is slightly larger; the design paragraph slightly quieter */
 .lede-opening { font-size: 19px; margin-bottom: 14px; }
-.lede-design { font-size: 16.5px; color: var(--grey); }
+.lede-design { font-size: 16.5px; color: var(--grey); margin-bottom: 14px; }
 
 /* Terms from the tradition: coral italic in the display serif, with a soft underline */
 .term {
@@ -113,6 +124,17 @@ a { color: var(--coral); }
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
+
+/* The right-hand card: a whisper of paper on the cream, with the links inside */
+.header-aside {
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--coral-soft);
+  border-radius: 14px;
+  padding: 18px 22px 16px;
+  margin-top: 8px;
+}
+.header-aside .lede { max-width: none; }
 
 .header-links { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 14px; }
 .header-links a { text-decoration: none; border-bottom: 1px solid #D9B8A9; }
@@ -353,6 +375,8 @@ a { color: var(--coral); }
   .answer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 900px) {
+  .header-body { grid-template-columns: 1fr; gap: 12px; }
+  .header-aside { margin-top: 0; }
   .wheel-section { grid-template-columns: 1fr; }
   .house-strip { grid-template-columns: 1fr; align-items: start; }
 }
