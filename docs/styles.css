@@ -99,6 +99,20 @@ a { color: var(--coral); }
   line-height: 1.5;
   color: #3A3330;
 }
+/* The opening paragraph is slightly larger; the design paragraph slightly quieter */
+.lede-opening { font-size: 19px; margin-bottom: 14px; }
+.lede-design { font-size: 16.5px; color: var(--grey); }
+
+/* Terms from the tradition: coral italic in the display serif, with a soft underline */
+.term {
+  font-family: var(--serif-display);
+  font-style: italic;
+  color: var(--coral);
+  text-decoration: underline;
+  text-decoration-color: #E8C4B5;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
 
 .header-links { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 14px; }
 .header-links a { text-decoration: none; border-bottom: 1px solid #D9B8A9; }
