@@ -37,7 +37,7 @@ Author: Babita Singh, PhD, Genethropic.
 When a field is young, its instruments decide what it can see. Research on AI inner life
 asks about consciousness, memory and values because those topics are famous, not because
 any inventory certifies the list complete. Ask about someone's job and memory alone and you
-miss their home, their friends, their fears about endings. In classical India, *jyotish*
+miss their home, their friends, their fears about endings. In classical India, [*jyotish*](https://en.wikipedia.org/wiki/Hindu_astrology)
 was called the eye of the Veda, the discipline through which a whole situation is seen at
 once. Its chart, the *kundali*, divides a situated existence into twelve houses read
 together as one body, the *Kalapurusha*, the person of time. The Kalapurusha Alignment
