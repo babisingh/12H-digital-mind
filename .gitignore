@@ -13,3 +13,4 @@ data/docs/*.txt
 
 __pycache__/
 *.pyc
+book-print/
